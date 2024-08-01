@@ -23,7 +23,7 @@ const Product = () => {
 
   return (
     <section className="text-white/90 ">
-      <article className="flex sm:flex-row flex-col mx-1 items-center gap-5 overflow-hidden rounded-lg bg-gradient-to-r from-slate-900 to-slate-700 p-4 shadow-xl relative">
+      <article className="flex sm:flex-row flex-col mx-1 items-center sm:gap-5 gap-1 overflow-hidden rounded-lg bg-gradient-to-r from-slate-900 to-slate-700 sm:p-4 p-2 shadow-xl relative">
         <div className="underline absolute top-5 left-5 cursor-pointer z-50" onClick={() => navigate(-1)}>
           Go back
         </div>
