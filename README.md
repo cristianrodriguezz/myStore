@@ -1,8 +1,43 @@
-# React + Vite
+## MYSTORE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a MYSTORE, tu tienda en línea para explorar y comprar productos de manera sencilla y eficiente! En MYSTORE, puedes buscar productos por nombre, categoría o tipo para encontrar rápidamente lo que necesitas. Consulta detalles completos de cada producto, incluyendo descripciones, precios, y disponibilidad, para tomar decisiones de compra informadas.
 
-Currently, two official plugins are available:
+## Demo
+[MYSTORE](https://my-store-black-kappa.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+
+Cloná el repositorio
+
+```bash
+git clone https://github.com/cristianrodriguezz/myStore.git
+```
+
+Una vez en la carpeta ejecuta este comando:
+
+```bash
+cd myStore
+npm install
+npm run dev
+```
+
+Listo con eso lo tenes andando en tu localhost suele ser http://localhost:5174/
+
+## Tecnologías Utilizadas
+
+Este proyecto fue desarrollado utilizando las siguientes tecnologías:
+
+- React
+
+## Main objetives
+
+  - Crear un diseño web responsive con React, HTML y CSS
+  - Diseño atractivo e intuitivo
+  - Conectar a una API y manejar los estados de respuesta
+
+
+Si deseas contribuir al proyecto, hazmelo saber
+
+## Contacto
+
+Correo electrónico [cristiandosespigas@gmail.com](cristiandosespigas@gmail.com)
